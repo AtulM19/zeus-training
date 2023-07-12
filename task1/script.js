@@ -7,8 +7,12 @@ const comments = document.getElementById('comments');
 const male = document.getElementById('male');
 const female = document.getElementById('female');
 
-const sub = function(x,y){
+
+const sub = function(x, y) {
     return x-y
+}
+const add = function (a, b) {
+    return a + b    
 }
 form.addEventListener('submit', (e) => {
  
