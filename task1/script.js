@@ -18,5 +18,6 @@ form.addEventListener('submit', (e) => {
     }
     else {
         alert("Form Submitted Successfully")
+        alert("Form Submitted Successfully wihtout error")
     }
 })
